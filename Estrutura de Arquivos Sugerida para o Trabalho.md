@@ -151,8 +151,6 @@ int main() {
 - **Clareza:** Cada arquivo tem uma responsabilidade única, refletindo o papel de cada thread e recurso compartilhado[^1].
 - **Facilidade de avaliação:** O professor conseguirá identificar rapidamente onde está cada parte da lógica e da sincronização, atendendo ao critério de clareza da solução[^2].
 
-Se desejar, posso detalhar um exemplo de implementação para cada arquivo-chave ou fornecer um diagrama ASCII das relações entre threads e recursos.
-
 <div style="text-align: center">⁂</div>
 
 [^1]: README.md
