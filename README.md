@@ -126,4 +126,4 @@ A divisão das threads e a estratégia de sincronização proposta garantem que 
 
 <div style="text-align: center">⁂</div>
 
-[^1]: Descricao-do-Trabalho-01.md
+[^1]: /Descricao-do-Trabalho-01.md
